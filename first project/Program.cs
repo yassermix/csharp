@@ -10,6 +10,8 @@ namespace first_project
     {
         static void Main(string[] args)
         {
+
+            //this is my first program
             Console.WriteLine("hello world");
             Console.ReadKey();
         }
